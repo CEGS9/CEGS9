@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Carlos Eduardo Guergolet!
 
-Apaixonado por tecnologia e desenvolvimento, com experiência em administração e aprendendo análise de dados e desenvolvimento Full Stack.
+Apaixonado por tecnologia e desenvolvimento, aprendendo análise de dados e desenvolvimento Full Stack.
 ---
 
 ## 🚀 Tecnologias e Ferramentas
